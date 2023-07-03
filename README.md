@@ -2,8 +2,10 @@
 
 This is my first app!!
 
+https://nessawang-streamlit-diamonds-app-app-u7808d.streamlit.app/
+
 ## Technical Details
-streamlit: https://streamlit.io/
+streamlit
 
 python 3.9
 
